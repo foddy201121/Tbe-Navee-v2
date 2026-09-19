@@ -1,0 +1,1 @@
+Tbe Navee Exploits customization: original DOM/JS hooks preserved; English is default; German remains selectable; dark-purple theme applied via CSS; selected informational/telemetry sections are hidden with CSS rather than deleted.
